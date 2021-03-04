@@ -1,0 +1,13 @@
+conda
+Flask
+Keras
+Keras-Applications
+Keras-Preprocessing
+numpy
+opencv-python
+Pillow
+requests
+tensorflow
+h5py
+matplotlib
+gunicorn
